@@ -3,7 +3,7 @@
 	<div class="container-main">
 		<?php while (have_posts()) : the_post(); ?>
 			<div <?php post_class() ?> id="post-<?php the_ID(); ?>">
-				<h2 class="inline"><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>">
+				<h2 class="inline"><a class="green" href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>">
 				<?php the_title(); ?></a></h2>
 				<span class="float-right quiet"><?php the_time('F jS, Y') ?> <!-- by <?php the_author() ?> --></span>
 				<div class="post">

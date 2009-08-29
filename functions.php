@@ -28,8 +28,8 @@ function getSidebar()
 		<hr/>
 		<h4 class="loud">About @KennethReitz</h4>
 		<p>
-		<strong>&hearts;?</strong> 
-		Open Minds. Open Software. Open Design.<br/>
+		<strong>Kenneth Reitz, <em>n</em></strong>: 
+		Open Mind. Open Source.<br/>
 		<strong>Location?</strong> Winchester, Virginia. <br/>
 		<strong>Field?</strong> Web Application Development <br/>
 		<strong>What??</strong> I make websites.<br/>
